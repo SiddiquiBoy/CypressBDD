@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 2,
+  "passes": 2,
+  "pending": 0,
+  "failures": 0,
+  "start": "2024-10-20T09:23:45.347Z",
+  "duration": 15942,
+  "file": "cypress\\integration\\SmokeSuite\\login3.feature"
+}
